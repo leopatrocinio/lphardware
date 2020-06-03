@@ -54,6 +54,10 @@ header.carousel {
     height: 50%;
 }
 
+header.carousel .item.active img{
+    width: 100% !important;
+    height: 100% !important;
+    }
 
 header.carousel .item,
 header.carousel .item.active,
