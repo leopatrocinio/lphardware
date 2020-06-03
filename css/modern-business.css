@@ -54,6 +54,7 @@ header.carousel {
     height: 50%;
 }
 
+
 header.carousel .item,
 header.carousel .item.active,
 header.carousel .carousel-inner {
@@ -66,6 +67,7 @@ header.carousel .fill {
     background-position: center;
     background-size: cover;
 }
+
 
 /* 404 Page Styles */
 
